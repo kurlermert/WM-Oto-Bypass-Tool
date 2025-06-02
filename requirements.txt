@@ -1,0 +1,2 @@
+# No external dependencies
+# Python Standard Library: sys, os, tkinter
